@@ -2,7 +2,7 @@ require 'pry'
 
 class Student < ActiveRecord::Base
   
-  #attr_accessor :active
+  
   
   def to_s
     # binding.pry
